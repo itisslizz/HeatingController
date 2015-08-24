@@ -10,8 +10,11 @@ It requires Python3.4 and the following libraries:
 * scipy
 * numpy
 * sklearn
-* web.py
 * aiocoap
+
+as well as Python2.7 including theses libraries:
+* sqlite3
+* web.py
 
 ## Controller System
 
